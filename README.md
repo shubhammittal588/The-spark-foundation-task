@@ -1,4 +1,4 @@
-## Basic Banking Syatem
+## Basic Banking System
 The link to the website : https://bit.ly/3FgpVw2
 
 ## Basic Banking App
